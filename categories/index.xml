@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on Universal</title>
+    <title>Categories on Maritime Blog</title>
     <link>https://maritime-blog.github.io/categories/</link>
-    <description>Recent content in Categories on Universal</description>
+    <description>Recent content in Categories on Maritime Blog</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
+    <language>pt-br</language>
     
 	<atom:link href="https://maritime-blog.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     
