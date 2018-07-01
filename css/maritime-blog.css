@@ -8,14 +8,20 @@
   opacity: 0.7;
 }
 
+.img-responsive {
+	margin: auto;
+}
+
 /*Categorias - Navegação em blog*/
 .panel-body > .nav-stacked {
   display: flex;
   flex-wrap: wrap;
 }
 
-#heading-breadcrumbs + .col-md-3 {
-  float: right;
+@media (min-width: 992px) {
+	#heading-breadcrumbs + .col-md-3 {
+  	float: right;
+	}
 }
 
 .testimonials .item .testimonial .name-picture {
